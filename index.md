@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+###个人信息
+####姓名：安广昱
+####籍贯：内蒙古赤峰市
+####专业：电子信息科学与技术
+####邮箱：anguangyu@bupt.edu.cn
+####联系方式：13684772292
 
-You can use the [editor on GitHub](https://github.com/buptagy/buptagy.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###教育经历
+####北京邮电大学 电子工程学院 本科
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###学习成绩
+####大一综测：60/331
+####大二综测：17/112
+####智育成绩：均分86.33，排名28/112
 
-### Markdown
+###修读课程
+####主修课程：信号与系统、通信原理、数字信号处理、数字电路逻辑与设计、模拟电子电路、电磁场与电 磁波、信息论与编码、概率论与随机过程、线性代数、高等数学
+####计算机相关课程：网络信息技术基础、C 语言程序设计、JAVA 高级语言程序设计、数据结构与算法、数据库技术与应用
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###相关技能
+####英语：六级451 四级567
+####计算机水平：了解 C 语言、java、VHDL 等语言，了解 web 开发的一些基本技术，掌握 MySQL 的基本 使用。并熟练使用 office 软件、Matlab、pr 以及相关电路设计仿真软件。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buptagy/buptagy.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###荣誉奖励
+*2018-2019 年度校优秀奖学金三等奖、文体积极分子
+*2019-2020 年度校优秀奖学金二等奖
+*国庆七十周年群众游行方阵优秀标兵
+*美国大学生数学建模大赛 M 奖（一等奖）
+*全国大学生数学竞赛三等奖
+*全国大学生嵌入式芯片设计暨智能互联创新大赛华北赛区三等奖
